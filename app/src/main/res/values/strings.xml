@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="mudarPagina">Mudar de Página</string>
+    <string name="textAt1">Esta atualmente na página AT1</string>
+    <string name="est_atualmente_na_p_gina_at2">Está atualmente na página AT2</string>
+    <string name="nome_completo_pedro_miguel_lvares_de_moura_n_aluno_27897_curso_engenharia_inform_tica">Nome Completo: Pedro Miguel Álvares de Moura NºAluno: 27897 Curso: Engenharia Informática</string>
+    <string name="sair">Sair</string>
+    <string name="sair_da_app">Sair da APP</string>
+    <string name="sair_da_aplica_o">Sair da Aplicação</string>
+    <string name="infoPessoal">Nome Completo: Pedro Miguel Álvares de Moura Nº Aluno: 27897 Curso: Engenharia Informática</string>
+    <string name="esta_atualmente_na_p_gina_at2">Esta atualmente na página AT2</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AT1">
+
+    <TextView
+        android:id="@+id/paginaAtual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="92dp"
+        android:text="@string/esta_atualmente_na_p_gina_at2"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/informacaoPessoal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/paginaAtual"
+        android:layout_marginTop="62dp"
+        android:text="@string/infoPessoal"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/buttonSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="52dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/sair_da_aplica_o"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

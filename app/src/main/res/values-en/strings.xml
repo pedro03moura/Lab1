@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="mudarPagina">Change Page</string>
+    <string name="textAt1">It is currently on the AT1 page</string>
+    <string name="est_atualmente_na_p_gina_at2">It is currently on the AT2 page</string>
+    <string name="nome_completo_pedro_miguel_lvares_de_moura_n_aluno_27897_curso_engenharia_inform_tica">Full Name: Pedro Miguel Álvares de Moura Student Number: 27897 Course: Computer Engineering</string>
+    <string name="sair">Exit</string>
+    <string name="sair_da_app">Exit the Application</string>
+    <string name="sair_da_aplica_o">Exit the Application</string>
+    <string name="infoPessoal">Full Name: Pedro Miguel Álvares de Moura Student Number: 27897 Course: Computer Engineering</string>
+    <string name="esta_atualmente_na_p_gina_at2">It is currently on the AT2 page</string>
+</resources>
